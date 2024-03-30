@@ -1,0 +1,21 @@
+.row {
+
+    cursor: pointer;
+}
+
+.card {
+    width: 90%;
+}
+
+#h1,h2,footer {
+    font-size: 36px; /* Tamaño de fuente */
+    color: #c91e1e;    /* Color del texto */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Sombra del texto */
+    padding: 10px;   /* Espacio alrededor del título */
+    border-radius: 10px; /* Bordes redondeados */
+    
+    color: linear-gradient(to right, #ff5733, #6e79d4);
+  }
+
+
+
